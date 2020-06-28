@@ -5,14 +5,15 @@ body {
     background: #34495e;
 }
 .box {
-    width: 300px;
-    padding: 40px;
+    width: 20%;
+    padding: 3%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: #191919;
     text-align: center;
+    border-radius: 10%;
 }
 .box h1 {
     color: white;
@@ -23,28 +24,28 @@ body {
     border: 0;
     background: none;
     display: block;
-    margin: 20px auto;
+    margin: 4% auto;
     text-align: center;
     border: 2px solid #3498db;
-    padding: 14px 10px;
-    width: 200px;
+    padding: 4% 4%;
+    width: 70%;
     outline: none;
     color: white;
     border-radius: 24px;
     transition: 0.25s;
 }
 .box input[type="text"]:focus, .box input[type="password"]:focus {
-    width: 280px;
+    width: 85%;
     border-color: #2ecc71;
 }
 .box input[type="submit"] {
     border: 0;
     background: none;
     display: block;
-    margin: 20px auto;
+    margin: 10% auto;
     text-align: center;
     border: 2px solid #2ecc71;
-    padding: 14px 40px;
+    padding: 5% 15%;
     outline: none;
     color: white;
     border-radius: 24px;
