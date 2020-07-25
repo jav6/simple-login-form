@@ -1,4 +1,6 @@
-<div align="center"><img alt="simple-login-form" src"https://raw.githubusercontent.com/jav6/simple-login-form/master/zscreenshot.png"></div>
-  
+<div align="center">
+<img src="https://raw.githubusercontent.com/jav6/simple-login-form/master/zscreenshot.png" alt="simple-login-form">
+</div> 
+
 # simple-login-form
 Simple login form - html - css
